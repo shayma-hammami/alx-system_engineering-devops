@@ -1,3 +1,2 @@
 #!/bin/bash
-sudo chown betty hellow
 sudo chown betty hello
