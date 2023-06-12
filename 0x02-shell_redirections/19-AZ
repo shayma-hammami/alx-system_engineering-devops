@@ -1,1 +1,2 @@
 #!/bin/bash
+echo "Apple cat" | tr Ac Ze
